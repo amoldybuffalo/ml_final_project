@@ -14,4 +14,4 @@ export LD_LIBRARY_PATH=/home/jhub/jhub-venv/lib/python3.10/site-packages/nvidia/
 
 
 
-jupyter execute train_model-slurm.ipynb
+jupyter execute test_model.ipynb
